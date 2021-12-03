@@ -41,7 +41,7 @@ public class Main {
          * Ask the user to pick a maximum number
          *
          *
-         *                  FIZZBUZZ RULES
+         *                  -------FIZZBUZZ RULES-------
          * "Write a program that prints the numbers from 1 to user input
          *  But for multiples of three print “Fizz” instead of the number
          *  and for the multiples of five print “Buzz”.
@@ -49,6 +49,16 @@ public class Main {
          *
          *
          * Call the fizzbuzz function with some different input to check if it is working.
+         *
+         */
+
+         /*
+         *
+         *
+         *
+         *
+         *                  --------Challenge ---------
+         * Create a menu which allows a user to pick which one of the function created above they would like to select
          *
          *
          */
